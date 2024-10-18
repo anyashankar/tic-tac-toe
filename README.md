@@ -1,3 +1,5 @@
+## Tic-Tac-Toe
+
 This Java program implements a simple console-based Tic-Tac-Toe game for two players.
 
 ## Features
